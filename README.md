@@ -1,2 +1,2 @@
-# Employee-management-system-based-on-polymorphism
+# Employee management system base on polymorphism
 c++ practice
